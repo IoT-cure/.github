@@ -9,4 +9,4 @@ but we also offer products like IoT Protection for common people**
 
 ## ⚠️ Disclaimer 
 
-Iot-cure is not a real company its just someting I did for a school project
+**Iot-cure is not a real company its just someting I did for a school project**

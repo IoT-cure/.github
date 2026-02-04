@@ -1,4 +1,5 @@
-# Iot-cure
+# <img  width="45" height="45" alt="Iot Cure Logo" src="https://github.com/user-attachments/assets/632e51e0-7735-452d-89c9-9817cf63b273" />  Iot-cure 
+
 
 ## 🌐 About Iot-cure
 
